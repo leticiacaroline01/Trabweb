@@ -1,0 +1,45 @@
+---
+title: "Obtenção dos dados"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Condições experimentais
+
+Os experimentos foram conduzidos no Laboratório de Manejo Integrado de
+Pragas – MIP-UFV, durante os anos de 2022 a 2023.
+
+## Insetos
+
+As lagartas da traça do tomateiro foram obtidas de criações mantidas a
+20 anos no Laboratório MIP-UFV. Essa criação é constituída por
+indivíduos da população de Viçosa, que é um padrão de suscetibilidade a
+inseticidas.
+
+## Determinação da eficiência dos inseticidas a traça do tomateiro
+
+O delineamento experimental foi inteiramente casualizado, com 14
+tratamentos além do controle, com seis repetições. No controle foi
+empregado somente água. A escolha dos inseticidas foi realizada de forma
+a abranger os principais produtos utilizados pelos produtores no
+controle desta praga no Brasil. Os inseticidas foram empregados na
+dosagem comercial utilizada para o controle da traça do tomateiro. Os
+inseticidas utilizados e suas dosagens foram: TABELA (colocar na tabela
+se é regulador ou outra coisa).
+
+Para instalação deste bioensaio, folhas de tomate foram imersas em
+caldas inseticidas por cinco segundos. As folhas foram colocadas para
+secar, e após, acondicionadas em potes plásticos de 50 mL, com tampa
+furada e vedada com organza. As folhas foram inseridas no pote com o
+auxílio de uma pinça, e as lagartas foram transferidas com pincel. Cada
+folha recebeu 10 lagartas de traça-do-tomateiro. Os potes foram levados
+para BOD a temperatura de 25 ± 0,5 °C e umidade relativa de 75 ± 5%.
+
+As avaliações do número de insetos mortos por unidade experimental foram
+realizadas após 24 horas, se estender até 168 horas, a depender do
+inseticida (regulador de crescimento). Foram considerados como mortos os
+insetos que não eram capazes de se deslocar o dobro do seu comprimento.
+(colocar vídeo mergulhando a folha).
+
+![](images/clipboard-2828042209.png)

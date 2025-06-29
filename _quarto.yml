@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  title: "Eficiência de inseticidas no controle da traça do tomateiro"
+  favicon: Imagens/logo.png  # Remova ou substitua se não tiver favicon
+
+  navbar:
+    background: primary
+    collapse: true
+    logo: Imagens/logo.png
+    left:
+      - href: index.qmd
+        text: Sobre
+        icon: house
+      - text: "Projeto"
+        icon: clipboard
+        menu:
+          - href: home.qmd
+            text: Traça do tomateiro
+          - href: about.qmd
+            text: Obtenção dos Dados
+      - href: analise.qmd
+        text: Análise dos Dados
+        icon: file-code
+    right:
+      - text: "GitHub"
+        icon: github
+        menu:
+          - text: Damaris Freitas
+            href: https://github.com/damarisfreitas
+          - text: Letícia Sant'Ana
+            href: https://github.com/leticiacaroline01
+     
+
+  page-footer:
+    left: "© 2025 Damaris Freitas & Letícia Sant'Ana"
+    right: "[Contato](mailto:damaris.freitas@ufv.br e leticia.ana@ufv.)"
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
+editor: visual

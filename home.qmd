@@ -1,0 +1,25 @@
+# Traça do tomateiro (*Phthorimaea absoluta*)
+
+*A traça do tomateiro (Phithorimaes absoluta)* (Meyrick) (Lepidoptera: Gelechiidae) é uma praga considerada chave nas culturas de tomate no mundo, ameaçando a produção do tomate em toda durante todo o cultivo. Seu ataque pode causar perdas de até 100% . Essa praga tem sua origem na América do Sul, onde teve importância limitada nessa região até 2006. Desde então, *P. absoluta* se espalhou por diversas regiões do mundo e hoje pode ser encontrada na América do Sul, Europa, África, Oriente Médio e Ásia Central. A praga apresenta ciclo de vida completo, com ovo, larva, pupa e adulto. A fase da vida do inseto que é praga, é a fase de lagartas, onde elas fazem minas nas folhas, reduzindo a capacidade fotossintética. Além disso, esse inseto reduz o crescimento das plantas devido suas larvas broquearem o ápice dos ramos. Além disso, suas larvas causam o abortamento de flores e broqueiam os frutos. O seu controle é feito principalmente pela aplicação de inseticidas.
+
+## **Morfologia e Identificação**
+
+1.  **Ovos:** Pequenos, ovalados, geralmente localizadas na parte inferior das folhas.
+
+![](images/clipboard-666887375.png){fig-align="center" width="380"}
+
+2.  **Larva:** Fase que causa dano, de coloração variada (creme a esverdeada/rosada), com cabeça escura. É nessa fase que a praga confecciona minas alargadas nas folhas.
+
+![](images/clipboard-434947254.png){fig-align="center" width="373"}
+
+3.  **Pupa:** Possui formato cilíndrico. Seu tamanho mede cerca de 4 mm de largura por 10 mm de comprimento. A coloração é inicialmente esverdeada, mas à medida que se desenvolve e se aproxima da emergência do adulto, sua cor muda para marrom-claro ou acastanhado, tornando-se marrom-escuro pouco antes da eclosão da mariposa.
+
+![](images/clipboard-656850817.png){fig-align="center" width="374"}
+
+4.  **Adultos:** Mariposa pequenas, com coloração acinzentada e de hábitos noturnos.
+
+![](images/clipboard-1784201641.png){fig-align="center" width="374"}
+
+## Danos causados por traça do tomateiro
+
+![](images/clipboard-1600322853.png){fig-align="center"}

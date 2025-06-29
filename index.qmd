@@ -1,0 +1,7 @@
+# Teste de eficiência de controle da traça-do-tomateiro (*Phthorimaea absoluta*)
+
+Este site foi desenvolvido para apresentar as informações relacionadas à análise de dados sobre a eficiência de diferentes inseticidas no controle da traça-do-tomateiro (*Phthorimaea absoluta*). O conteúdo faz parte do trabalho final da disciplina FIP 606 – Análise e Visualização de Dados em Fitopatologia, ministrada pelo professor [Emerson Del Ponte](https://emersondelponte.netlify.app/).
+
+A análise realizada fornece um panorama dos efeitos de diversos inseticidas na supressão da praga, permitindo comparar sua eficácia com base em dados experimentais.
+
+![](images/clipboard-126007922.png){fig-align="center" width="487"}

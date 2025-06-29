@@ -1,0 +1,36 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"websittrab\"\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "# Meu trbalho de estatistica, será que vai dar certo, vamos ver?\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "```{Teste de eficiência de controle da traça-do-tomateiro (Phthorimaea absoluta)}\n",
+        "Este site foi desenvolvido para apresentar as informações relacionadas à análise de dados sobre a eficiência de diferentes inseticidas no controle da traça-do-tomateiro (Tuta absoluta). O conteúdo faz parte do trabalho final da disciplina FIP 606 – Análise e Visualização de Dados em Fitopatologia, ministrada pelo professor Emerson Del Ponte.\n",
+        "A análise realizada fornece um panorama dos efeitos de diversos inseticidas na supressão da praga, permitindo comparar sua eficácia com base em dados experimentais.\n",
+        "```"
+      ],
+      "id": "a8d37a29"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

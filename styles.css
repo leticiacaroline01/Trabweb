@@ -1,0 +1,113 @@
+/* === VARIÁVEIS PARA MODO CLARO (PADRÃO) === */
+:root {
+  --bs-primary: #006400; /* Verde escuro (para modo claro) */
+  --bs-secondary: #A9CBA1;
+  --bs-body-bg: #f5f7f3;
+  --bs-body-color: #212529; /* Cor do texto do corpo para modo claro */
+  --bs-link-color: #006400;
+  --bs-link-hover-color: #004d00;
+  --bs-dropdown-bg: #006400;
+  --bs-dropdown-color: #ffffff;
+  --bs-dropdown-hover-bg: #004d00;
+}
+
+/* === VARIÁVEIS PARA MODO ESCURO === */
+body[data-bs-theme="dark"],
+body.quarto-dark {
+  background-color: #121212 !important; /* Fundo preto */
+  color: #ffffff !important;           /* Texto branco do corpo para modo escuro */
+
+  --bs-primary: #006400; /* VERDE ESCURO PRINCIPAL PARA MODO ESCURO */
+  --bs-secondary: #6A886A;
+  --bs-body-bg: #121212;
+  --bs-body-color: #ffffff; /* Cor do texto do corpo para modo escuro */
+  --bs-link-color: #006400;
+  --bs-link-hover-color: #008000;
+  --bs-dropdown-bg: #2d4d2d;
+  --bs-dropdown-color: #ffffff;
+  --bs-dropdown-hover-bg: #3d6d3d;
+}
+
+/* === NAVBAR === */
+.navbar, .navbar-brand, .navbar-nav .nav-link.active {
+  background-color: var(--bs-primary) !important;
+  color: white !important;
+}
+
+.navbar a, .navbar a:visited {
+  color: white !important;
+}
+
+.navbar a:hover {
+  color: #cce5cc !important;
+}
+
+/* === MENU SUSPENSO === */
+.dropdown-menu {
+  background-color: var(--bs-dropdown-bg) !important;
+  border: none;
+}
+
+.dropdown-menu .dropdown-item {
+  color: var(--bs-dropdown-color) !important;
+}
+
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus {
+  background-color: var(--bs-dropdown-hover-bg) !important;
+  color: var(--bs-dropdown-color) !important;
+}
+
+/* === BOTÕES PRIMÁRIOS === */
+.btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: var(--bs-link-hover-color);
+  border-color: var(--bs-link-hover-color);
+  color: white;
+}
+
+/* === TÍTULOS === */
+h1, h2, h3, h4 {
+  color: var(--bs-primary); /* Por padrão, usa a cor primária (verde escuro no modo claro) */
+}
+
+/* NOVO: Títulos em branco no modo escuro */
+body[data-bs-theme="dark"] h1,
+body[data-bs-theme="dark"] h2,
+body[data-bs-theme="dark"] h3,
+body[data-bs-theme="dark"] h4,
+body.quarto-dark h1,
+body.quarto-dark h2,
+body.quarto-dark h3,
+body.quarto-dark h4 {
+  color: var(--bs-body-color) !important; /* USA A COR DO TEXTO DO CORPO (BRANCO) */
+}
+
+
+/* === RODAPÉ DO QUARTO === */
+.nav-footer {
+  background-color: var(--bs-primary) !important;
+  border-top: none !important;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #cce5cc !important;
+}
+
+.nav-footer p,
+.nav-footer a,
+.nav-footer .nav-footer-left,
+.nav-footer .nav-footer-right {
+  color: #cce5cc !important;
+}
+
+/* === CARDS === */
+.card {
+  border: 1px solid #cde0c8;
+  background-color: #ffffff;
+}
